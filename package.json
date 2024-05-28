@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@opentelemetry/api": "^1.6.0",
-    "@opentelemetry/auto-instrumentations-node": "^0.39.4",
+    "@opentelemetry/auto-instrumentations-node": "^0.46.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.45.0",
     "@opentelemetry/sdk-node": "^0.45.0",
     "cors": "^2.8.5",
